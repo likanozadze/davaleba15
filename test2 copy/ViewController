@@ -1,0 +1,17 @@
+//
+//  ViewController.swift
+//  test2
+//
+//  Created by Lika Nozadze on 10/25/23.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+    @IBOutlet weak var viewName: UIView!
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+    }
+}
